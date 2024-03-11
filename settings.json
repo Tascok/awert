@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "gn1.slicehosting.tech",
+    "port": 26642,
+    "version": "1.16.5"
   },
 
   "position": {
